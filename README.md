@@ -139,6 +139,14 @@ This makes it stronger than a basic greedy player because it is not only chasing
 
 ---
 
+## 🌐 Live Demo
+
+The game is deployed on GitHub Pages here:
+
+https://rahulkumar111232192-ux.github.io/Dot-box-AI-Playing-game/
+
+---
+
 ## ▶️ How to Run
 
 Open the project in a browser using a local server.
